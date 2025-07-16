@@ -75,6 +75,7 @@ This app is **not intended for production-level fraud prevention**. It is built 
 ### 📣 About This Project
 - Built with: Python, XGBoost, Streamlit
 
+""")
 
 
 
