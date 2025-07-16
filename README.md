@@ -6,7 +6,7 @@ A Streamlit web application that uses a trained **XGBoost classification model**
 
 ## 🚀 Live App
 
-👉 [Click here to access the live Streamlit app](https://your-streamlit-app-link-here)
+👉 [Click here to access the live Streamlit app](https://credit-card-fraud-detection-cpxxxgxkxiwduh86rhcphl.streamlit.app/)
 
 
 ---
